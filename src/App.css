@@ -99,12 +99,13 @@ nav {
   
   .containerBox{
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
  }
   
  .term {
-    color: grey;
+   color: grey;
    border: 1px solid black;
    padding: 3px;
+   margin-right: 5px;
    border-radius: 5px;
  }

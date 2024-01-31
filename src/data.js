@@ -6,7 +6,7 @@ export const data = [
   
       name: "Ideal",
   
-      searchTerm: ["small home","affordable","traditional"],
+      searchTerm: ["small","affordable","traditional"],
   
       price: 180_990,
   
@@ -20,7 +20,7 @@ export const data = [
   
       name: "Nordic Idyll",
   
-      searchTerm: ["small home", "affordable", "traditional"],
+      searchTerm: ["small", "affordable", "traditional"],
   
       price: 200_790,
   
@@ -216,3 +216,4 @@ export const data = [
   
     }
 ]
+
