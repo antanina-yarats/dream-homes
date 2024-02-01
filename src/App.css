@@ -1,3 +1,8 @@
+body { 
+  background-color: #f6f6f6;
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+}
+
 nav {
 
   background: #cfd8dc;
@@ -14,43 +19,45 @@ nav {
   text-transform: uppercase;
   }
 
-
-
-
 .products {
-
    display: flex;
    flex-wrap: wrap;
-  
   }
   
   .product-card {
-  
     padding: 2%;
     flex-grow: 1;
     flex-basis: 16%;
   
   }
 
+  .termContainerBox {
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  .termContainer{
+    display: flex;
+    justify-content: flex-start;
+ }
+  
+ .term {
+   color: grey;
+    margin-right: 5px;
+    border: 1px solid black;
+    padding: 3px;
+    border-radius: 5px;
+ }
+
+
   .product-info{
     font-weight: bold;
   }
   
-  body {
-  
-    background-color: #f6f6f6;
-    font-family: 'Encode Sans Semi Expanded', sans-serif;
-
-  
-  }
-  
-  
   .cont {
-  
     display: flex;
-  
     justify-content: center;
-  
+
   }
   
   .back {
@@ -64,9 +71,7 @@ nav {
     margin-right: 20px;
   
     font-family: 'Encode Sans Semi Expanded', sans-serif;
-  
-  
-  
+
   }
   
   .change {
@@ -97,15 +102,4 @@ nav {
   
 
   
-  .containerBox{
-    display: flex;
-    justify-content: flex-start;
- }
   
- .term {
-   color: grey;
-   border: 1px solid black;
-   padding: 3px;
-   margin-right: 5px;
-   border-radius: 5px;
- }

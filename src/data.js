@@ -8,7 +8,7 @@ export const data = [
   
       searchTerm: ["small","affordable","traditional"],
   
-      price: 180_990,
+      price: "180 990 €",
   
       image: "https://designtalo.fi/wp-content/uploads/sites/3/2022/08/Ideal-90.jpg"
   
@@ -22,7 +22,7 @@ export const data = [
   
       searchTerm: ["small", "affordable", "traditional"],
   
-      price: 200_790,
+      price: "200 790 €",
   
       image: "https://designtalo.fi/wp-content/uploads/sites/3/2022/09/Ideal-136.jpg"
   
@@ -38,7 +38,7 @@ export const data = [
   
       searchTerm: ["large", "traditional", "mid-range"],
   
-      price: 400_870,
+      price: "400 870 €",
   
       image: "https://designtalo.fi/wp-content/uploads/sites/3/2022/09/Nordic-Idyll-220-Plus-takaa-fotoreal-1.jpg"
   
@@ -54,7 +54,7 @@ export const data = [
   
       searchTerm: ["modern","medium","mid-range"],
   
-      price: 300_550,
+      price: "300 550 €",
   
       image: "https://designtalo.fi/wp-content/uploads/sites/3/2022/09/Ideal-134.jpg"
   
@@ -70,7 +70,7 @@ export const data = [
   
       searchTerm: ["modern","mid-range","medium"],
   
-      price: 250_560,
+      price: "250 560 €",
   
       image: "https://www.kastelli.fi/wp-content/uploads/2019/01/02_kuori115_v03-768x672.jpg"
   
@@ -84,7 +84,7 @@ export const data = [
   
       searchTerm: ["large","traditional","affordable"],
   
-      price: 350_999,
+      price: "350 999 €",
   
       image: "https://jetta-talo.fi/wp-content/uploads/2023/01/2514-31_villa_sandvik_3djs_1-1-1024x685-1.jpg.webp"
   
@@ -98,7 +98,7 @@ export const data = [
   
       searchTerm: ["mid-range", "medium", "modern"],
   
-      price: 285_999,
+      price: "285 999 €",
   
       image: "https://jetta-talo.fi/wp-content/uploads/2023/01/pouta175m2-a_-3djs_2_0-2-1920x1354.jpg.webp"
   
@@ -112,7 +112,7 @@ export const data = [
   
       searchTerm: ["large","luxury","modern"],
   
-      price: 600_199,
+      price: "600 199 €",
   
       image: "https://jetta-talo.fi/wp-content/uploads/2023/01/lainen-174-m2-1920x1090-1.jpg.webp"
   
@@ -126,7 +126,7 @@ export const data = [
   
       searchTerm: ["large","affordable","traditional"],
   
-      price: 305_999,
+      price: "305 999 €",
   
       image: "https://www.lammi.fi/kivitalo/wp-content/uploads/sites/2/2018/05/Lammi_Kivitalo_Lammi_Kantele_paakuva-1024x768.jpg"
   
@@ -140,7 +140,7 @@ export const data = [
   
       searchTerm: ["luxury","traditional","large"],
   
-      price: 3_129_999,
+      price: "3 129 999 €",
   
       image: "https://seura.fi/awpo/img/2021/12/5032982.jpeg?s=812be89e99d575e5b12350c0ac30f8cb&w=700&h=476"
   
@@ -154,7 +154,7 @@ export const data = [
   
       searchTerm: ["luxury", "modern", "large"],
   
-      price: 2_199_999,
+      price: "2 199 999 €",
   
       image: "https://www.honkatalot.fi/wp-content/uploads/hybriditalo1-820x600.jpg"
   
@@ -168,7 +168,7 @@ export const data = [
   
       searchTerm: ["luxury", "modern", "large"],
   
-      price: 2_500_000,
+      price: "2 500 000 €",
   
       image: "https://www.honkatalot.fi/wp-content/uploads/Wave_dark_9.8.21-820x600.jpg"
   
@@ -182,7 +182,7 @@ export const data = [
   
       searchTerm: ["traditional", "mid-range", "large"],
   
-      price: 350_000,
+      price: "350 000 €",
   
       image: "https://www.honkatalot.fi/wp-content/uploads/taidemuseo1.jpg"
   
@@ -194,9 +194,9 @@ export const data = [
   
       name: "Pohjalainen",
   
-      searchTerm: ["affordable", "traditional", "small"],
+      searchTerm: ["affordable", "traditional", "small", "best-seller"],
   
-      price: 198_000,
+      price: "198 000 €",
   
       image: "https://jetta-talo.fi/wp-content/uploads/2023/01/pohjalainen-184-1920x1090-1.jpg.webp"
   
@@ -208,12 +208,14 @@ export const data = [
   
       name: "Aurora",
   
-      searchTerm: ["small", "luxury", "modern"],
+      searchTerm: ["small", "luxury", "modern", "best-seller"],
   
-      price: 700_000,
+      price: "700 000 €",
   
       image: "https://www.honkatalot.fi/wp-content/uploads/auroralodge-820x600.jpg"
   
     }
 ]
+
+
 
